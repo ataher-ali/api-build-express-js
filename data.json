@@ -1,0 +1,72 @@
+[
+    {
+      "id":1,
+      "company": "10 Minute School",
+      "email":"press@google.com",
+      "phone":"(650) 253-0000",
+      "companyImg": "https://ssw-live.s3.amazonaws.com/events/10150/logos/10435.png",
+      "jobTitle": "Software Developer",
+      "jobType": "Full-Time",
+      "jobDis": "We are seeking a skilled software developer to join our team and help us build innovative solutions for our clients.",
+      "location": "Dhaka,Bangladesh",
+      "salary": " 120,000 /Moth",
+      "description": "As a software developer at Acme Corporation, you will be responsible for developing and maintaining high-quality software products that meet the needs of our clients. You will work closely with our team of developers, product managers, and designers to ensure that our software is reliable, efficient, and user-friendly.",
+      "responsibility": "Responsibilities include developing software solutions to meet client needs, writing clean and maintainable code, debugging and troubleshooting issues, collaborating with team members to design and implement new features, and keeping up-to-date with emerging trends and technologies in software development.",
+      "eduRequirements": "Requirements include a Bachelor's degree in Computer Science or related field, proficiency in programming languages such as Java or Python, and experience with software development methodologies such as Agile or Scrum.",
+      "experiences": "Experience in software development, including full-stack development, is preferred. Experience with cloud computing, DevOps, or machine learning is a plus."
+    
+    },
+    {
+        "id":2,
+      "company": "Pathao",
+      "email":"support@pathao.com",
+      "phone":"13301",
+      "companyImg": "https://th.bing.com/th/id/R.b7b04a46453be177fe56be342dc975b8?rik=tyw%2bE%2fYJ9yDoFw&pid=ImgRaw&r=0",
+      "jobTitle": "Marketing Manager",
+      "jobType": "Part-Time",
+      "jobDis": "We are looking for an experienced marketing manager to develop and execute effective marketing campaigns that drive revenue growth.",
+      "location": "Dhaka,Bangladesh",
+      "salary":  " 100,000 /Month",
+      "responsibility": "Marketing and Responsibilities include analyzing large datasets using SQL, Python,",
+      "eduRequirements": "BSC in CSE and MBA",
+      "experiences": "1year",
+      "description": "As a software developer at Acme Corporation, you will be responsible for developing and maintaining high-quality software products that meet the needs of our clients. You will work closely with our team of developers, product managers, and designers to ensure that our software is reliable, efficient, and user-friendly."
+      
+
+    },
+    {
+        "id":3,
+      "company": "Shohoz",
+      "email":"reports@shohoz.com",
+      "phone":"",
+      "companyImg": "https://d1.awsstatic.com/customer-references-case-studies-logos/Shohoz_logo%402x.d08ce5ac3d31e4978b5838baead58f3cdb7d3f2b.png",
+      "jobTitle": "Marketing Manager",
+      "jobType": "Full-Time",
+      "jobDis": "We are looking for an experienced marketing manager to develop and execute effective marketing campaigns that drive revenue growth.",
+      "location": "Dhaka,Bangladesh",
+      "salary": " 100,000 / Month",
+      "description": "As a marketing manager at Widget Co., you will be responsible for developing and implementing effective marketing strategies that drive revenue growth and increase brand awareness. You will work closely with our team of designers, writers, and developers to create and distribute marketing materials that resonate with our target audience.",
+      "responsibility": "Responsibilities include developing marketing plans and budgets, executing marketing campaigns across multiple channels, analyzing campaign performance and making data-driven decisions, managing social media accounts and advertising campaigns, and collaborating with team members to develop creative and effective marketing materials.",
+      "eduRequirements": "Requirements include a Bachelor's degree in Marketing, Business Administration, or related field, proficiency in marketing software and tools such as Google Analytics, HubSpot, or Marketo, and experience with developing and executing marketing campaigns.",
+      "experiences": "Experience in marketing, including experience in digital marketing, social media marketing, or content marketing, is preferred. Experience with marketing automation or CRM systems is a plus."
+
+    },
+    {
+        "id":4,
+      "company": "Sheba.xyz",
+      "email":"info@sheba.xyz ",
+      "phone":"09678016516",
+      "companyImg": "https://techjano.com/wp-content/uploads/2019/03/sheba_xyz.jpg",
+      "jobTitle": "Data Analyst",
+      "jobType": "Contract",
+      "jobDis": "We are seeking a data analyst to support our data team in analyzing large datasets and providing insights to our business stakeholders.",
+      "location": "Remote",
+      "salary": " 60 / per hour",
+      "description": "As a data analyst at Globex Corporation, you will be responsible for analyzing large datasets and providing insights to our business stakeholders. You will work closely with our team of data scientists, engineers, and product managers to identify trends and patterns in our data that can inform business decisions.",
+      "responsibility": "Responsibilities include analyzing large datasets using SQL, Python,",
+      "eduRequirements": "none",
+      "experiences": "1year"
+
+    }
+  ]
+  
