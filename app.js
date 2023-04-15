@@ -13,13 +13,14 @@ app.get('/job', (req, res) => {
 app.get('/job/:id', (req, res) => {
     const id = parseInt(req.params.id)
     console.log(`params ${id}`);
-    const job = Jobs.find(job=>job.id===id )
-    if(job){
-        res.send(job)
-    }
-    else{
-        res.json({message: "data not found!"})
-    }
+    const job = Jobs.find(job=>job.id===id )||{message: "data not found!"};
+    // if(job){
+    //     res.send(job)
+    // }
+    // else{
+    //     res.json({message: "data not found!"})
+    // }
+    res.send(job) // if if-else statement will you work 23 line make salient
 })
 
 
