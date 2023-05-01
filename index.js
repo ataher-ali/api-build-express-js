@@ -2,6 +2,9 @@ const express = require('express')
 const Jobs = require('./data.json')
 const app = express()
 const port = 3000
+var cors = require('cors')
+
+app.use(cors())
 
 app.get('/', (req, res) => {
   res.send('Hello Bangladesh ! hello ! Kurigram ... ulipur')
